@@ -19,9 +19,9 @@ const Content = () => {
     const [peliculas, setPeliculas] = useState({list: [], usando: false})
 
     const buscador = e => {
-            fetch(urlSearch + e.target.value)
-            .then(response => response.json())
-            .then(data => {setPeliculas(peliculas => ({...peliculas, list: data.results, usando: true}))})
+        fetch(urlSearch + e.target.value)
+        .then(response => response.json())
+        .then(data => {setPeliculas(peliculas => ({...peliculas, list: data.results, usando: true}))})
     }
 
     return (
