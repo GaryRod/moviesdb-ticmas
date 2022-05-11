@@ -5,7 +5,7 @@ import Content from './components/Content';
 function App() {
   return (
     <React.Fragment>
-      <div className='h-100 w-100 bg-dark bg-gradient'>
+      <div className='h-100 w-100'>
         <Content></Content>
       </div>
     </React.Fragment>
