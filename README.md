@@ -19,3 +19,7 @@ Por último para correr la aplicación ejecutar:
 #### `npm start`
 
 Se abrirá una pestaña en su navegador de forma automática con el proyecto, en caso de no tener el navegador abierto también se abrirá.
+
+## Despliegue
+
+Puede ver la aplicación desplegada [aqui](https://garyrod.github.io/moviesdb-ticmas/).
