@@ -8,7 +8,7 @@ Para clonar el repositorio debes ejecutar el siguiente comando en una terminal:
 
 Ingresar a la carpeta principal con el comando:
 
-#### `cd moviesdb-ticmas-main`
+#### `cd moviesdb-ticmas`
 
 Instalar todas las dependencias necesarias con:
 
