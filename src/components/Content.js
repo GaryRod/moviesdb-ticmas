@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import Search from '../Search'
+import Search from './Search'
 import Card from './Card'
 
 const Content = () => {
