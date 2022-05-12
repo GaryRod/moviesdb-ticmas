@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/moviesdb-ticmas/static/css/main.1615b1b2.css",
-    "main.js": "/moviesdb-ticmas/static/js/main.83f644f2.js",
+    "main.js": "/moviesdb-ticmas/static/js/main.3577683a.js",
     "static/js/787.dd621c65.chunk.js": "/moviesdb-ticmas/static/js/787.dd621c65.chunk.js",
     "index.html": "/moviesdb-ticmas/index.html",
     "main.1615b1b2.css.map": "/moviesdb-ticmas/static/css/main.1615b1b2.css.map",
-    "main.83f644f2.js.map": "/moviesdb-ticmas/static/js/main.83f644f2.js.map",
+    "main.3577683a.js.map": "/moviesdb-ticmas/static/js/main.3577683a.js.map",
     "787.dd621c65.chunk.js.map": "/moviesdb-ticmas/static/js/787.dd621c65.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1615b1b2.css",
-    "static/js/main.83f644f2.js"
+    "static/js/main.3577683a.js"
   ]
 }
