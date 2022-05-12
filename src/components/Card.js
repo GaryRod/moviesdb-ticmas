@@ -9,7 +9,7 @@ function Card(pelicula) {
     let imgPelicula = pelicula.poster_path === null ? imgDefault : imgApi
 
     return (
-        <div className='col-12 col-md-6 col-lg-4'>
+        <div className='col-6 col-md-6 col-lg-4'>
             <div className="card h-100 bg-danger bg-gradient">
                 <img src={imgPelicula} className="card-img-top" alt={pelicula.title}/>
                 <div className="card-body">
